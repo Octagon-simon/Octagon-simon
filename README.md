@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Simon Ugorji @Octagon
-- 👀 I’m interested in ... Internet, Technologies, Computers most importantly, PROGRAMMING. 
-- 🌱 I’m currently learning ... Web Ap Development. 
-- 💞️ I’m looking to collaborate on ... SchoolMug, GMAS, octaValidate, oshare 
-- 📫 How to reach me ... send a mail to Ugorji757@gmail.com and I will be intouch.
+- 👋 Hi, I’m Simon Ugorji
+- 👀 I’m interested in ... Technical writing & Backend Development. 
+- 🌱 I’m currently learning ... JavaScript for backend (NodeJS). 
+- 💞️ I’m looking to collaborate on my side projects. 
+- 📫 How to reach me ... send a mail to Ugorji757@gmail.com or send me a DM on twitter and I will be in touch.
