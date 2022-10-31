@@ -6,7 +6,11 @@
 
 ### :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [How To Implement A Password Reset Feature In Your NodeJS Application](https://octagon.hashnode.dev/how-to-implement-a-password-reset-feature-in-your-nodejs-application)
+ - 💫 [How To Use Embedded JavaScript &lpar;EJS&rpar; As A Template Engine In NodeJs - Full Explanation](https://octagon.hashnode.dev/how-to-use-embedded-javascript-ejs-as-a-template-engine-in-nodejs-full-explanation)
+ - 💫 [How To Create  A Simple Word Unscrambler With JavaScript](https://octagon.hashnode.dev/how-to-create-a-simple-word-unscrambler-with-javascript)
+ - 🚀 [How To Validate Your Forms Server-Side With Octavalidate-PHP](https://octagon.hashnode.dev/how-to-validate-your-forms-server-side-with-octavalidate-php)
+ - 💫 [File Validation Using The FileList API in JavaScript](https://octagon.hashnode.dev/file-validation-using-the-filelist-api-in-javascript)<!-- BLOGPOSTS:END -->
 
 ### ☎️ Contact Me
 
