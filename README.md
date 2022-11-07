@@ -1,3 +1,6 @@
+![image](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)
+
+
 ## 👋 Hi, I’m Simon Ugorji
 
 - 👀 I’m interested in ... Technical writing & Backend Development. 
