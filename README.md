@@ -9,11 +9,11 @@
 
 ### :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [How To Upload And Zip Single Or Multiple Files in PHP](https://octagon.hashnode.dev/how-to-upload-and-zip-single-or-multiple-files-in-php)
+ - 🚀 [Step-by-Step NodeJS App Development for Frontend Developers](https://octagon.hashnode.dev/step-by-step-nodejs-app-development-for-frontend-developers)
+ - 💫 [How To Upload And Zip Single Or Multiple Files in PHP](https://octagon.hashnode.dev/how-to-upload-and-zip-single-or-multiple-files-in-php)
  - 💫 [How does the sort method work in JavaScript?](https://octagon.hashnode.dev/how-does-the-sort-method-work-in-javascript)
- - 💫 [How To Implement A Password Reset Feature In Your NodeJS Application](https://octagon.hashnode.dev/how-to-implement-a-password-reset-feature-in-your-nodejs-application)
- - 🚀 [How To Use Embedded JavaScript &lpar;EJS&rpar; As A Template Engine In NodeJs - Full Explanation](https://octagon.hashnode.dev/how-to-use-embedded-javascript-ejs-as-a-template-engine-in-nodejs-full-explanation)
- - 💫 [How To Create  A Simple Word Unscrambler With JavaScript](https://octagon.hashnode.dev/how-to-create-a-simple-word-unscrambler-with-javascript)<!-- BLOGPOSTS:END -->
+ - 🚀 [How To Implement A Password Reset Feature In Your NodeJS Application](https://octagon.hashnode.dev/how-to-implement-a-password-reset-feature-in-your-nodejs-application)
+ - 💫 [How To Use Embedded JavaScript &lpar;EJS&rpar; As A Template Engine In NodeJs - Full Explanation](https://octagon.hashnode.dev/how-to-use-embedded-javascript-ejs-as-a-template-engine-in-nodejs-full-explanation)<!-- BLOGPOSTS:END -->
 
 ### ☎️ Contact Me
 
