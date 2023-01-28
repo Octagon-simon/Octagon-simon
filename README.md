@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/68190998/215254668-4a593ea2-2066-42ac-b431-ed2d484bc278.png)
-
+![my-card-white](https://user-images.githubusercontent.com/68190998/215255014-489b5991-8d1c-415e-8838-c900afa07e8b.png)
 
 ## 👋 Hi, I’m Simon Ugorji
 
