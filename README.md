@@ -1,4 +1,4 @@
-![image](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)
+![image](https://user-images.githubusercontent.com/68190998/215254668-4a593ea2-2066-42ac-b431-ed2d484bc278.png)
 
 
 ## 👋 Hi, I’m Simon Ugorji
