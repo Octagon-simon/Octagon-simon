@@ -9,11 +9,11 @@
 
 ## :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [How To Setup Automatic Redirects In Your React Application](https://octagon.hashnode.dev/how-to-setup-automatic-redirects-in-your-react-application)
+ - 🚀 [How To Read A CSV File &amp; Write Data Into It Using PHP](https://octagon.hashnode.dev/how-to-read-a-csv-file-write-data-into-it-using-php)
+ - 💫 [How To Setup Automatic Redirects In Your React Application](https://octagon.hashnode.dev/how-to-setup-automatic-redirects-in-your-react-application)
  - 💫 [How To Upload And Zip Single Or Multiple Files in PHP](https://octagon.hashnode.dev/how-to-upload-and-zip-single-or-multiple-files-in-php)
- - 💫 [How does the sort method work in JavaScript?](https://octagon.hashnode.dev/how-does-the-sort-method-work-in-javascript)
- - 🚀 [How To Implement A Password Reset Feature In Your NodeJS Application](https://octagon.hashnode.dev/how-to-implement-a-password-reset-feature-in-your-nodejs-application)
- - 💫 [How To Use Embedded JavaScript &lpar;EJS&rpar; As A Template Engine In NodeJs - Full Explanation](https://octagon.hashnode.dev/how-to-use-embedded-javascript-ejs-as-a-template-engine-in-nodejs-full-explanation)<!-- BLOGPOSTS:END -->
+ - 🚀 [How does the sort method work in JavaScript?](https://octagon.hashnode.dev/how-does-the-sort-method-work-in-javascript)
+ - 💫 [How To Implement A Password Reset Feature In Your NodeJS Application](https://octagon.hashnode.dev/how-to-implement-a-password-reset-feature-in-your-nodejs-application)<!-- BLOGPOSTS:END -->
 
 ## ☎️ Contact Me
 
