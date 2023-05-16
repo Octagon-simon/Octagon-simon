@@ -9,11 +9,11 @@
 
 ## :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [How To Read A CSV File &amp; Write Data Into It Using PHP](https://octagon.hashnode.dev/how-to-read-a-csv-file-write-data-into-it-using-php)
+ - 🚀 [A Research On The 2 Popular AI Language Models](https://octagon.hashnode.dev/a-research-on-the-2-popular-ai-language-models)
+ - 💫 [How To Read A CSV File &amp; Write Data Into It Using PHP](https://octagon.hashnode.dev/how-to-read-a-csv-file-write-data-into-it-using-php)
  - 💫 [How To Setup Automatic Redirects In Your React Application](https://octagon.hashnode.dev/how-to-setup-automatic-redirects-in-your-react-application)
- - 💫 [How To Upload And Zip Single Or Multiple Files in PHP](https://octagon.hashnode.dev/how-to-upload-and-zip-single-or-multiple-files-in-php)
- - 🚀 [How does the sort method work in JavaScript?](https://octagon.hashnode.dev/how-does-the-sort-method-work-in-javascript)
- - 💫 [How To Implement A Password Reset Feature In Your NodeJS Application](https://octagon.hashnode.dev/how-to-implement-a-password-reset-feature-in-your-nodejs-application)<!-- BLOGPOSTS:END -->
+ - 🚀 [How To Upload And Zip Single Or Multiple Files in PHP](https://octagon.hashnode.dev/how-to-upload-and-zip-single-or-multiple-files-in-php)
+ - 💫 [How does the sort method work in JavaScript?](https://octagon.hashnode.dev/how-does-the-sort-method-work-in-javascript)<!-- BLOGPOSTS:END -->
 
 ## ☎️ Contact Me
 
