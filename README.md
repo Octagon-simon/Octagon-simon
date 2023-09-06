@@ -7,11 +7,11 @@
 - 🌱 I’m currently building marketable products using my skills
 - 💞️ I’m looking to collaborate on Web development and technical writing projects. 
 
-## ✨ Overview (Not including private repo)
+## ✨ Overview
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Octagon-simon&theme=highcontrast)](https://git.io/streak-stats)
 
-## ❤️‍🔥 My Stats (Not including private repo)
+## ❤️‍🔥 My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Octagon-simon&show_icons=true&theme=transparent)
 
