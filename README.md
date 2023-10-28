@@ -17,11 +17,11 @@
 
 ## :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [How To Create An OTP Input Box In React JS/Next JS](https://octagon.hashnode.dev/how-to-create-an-otp-input-box-in-react-jsnext-js)
+ - 🚀 [4 Ways To Add CSS Styles To Your NextJS Project](https://octagon.hashnode.dev/4-ways-to-add-css-styles-to-your-nextjs-project)
+ - 💫 [How To Create An OTP Input Box In React JS/Next JS](https://octagon.hashnode.dev/how-to-create-an-otp-input-box-in-react-jsnext-js)
  - 💫 [A Research On The 2 Popular AI Language Models](https://octagon.hashnode.dev/a-research-on-the-2-popular-ai-language-models)
- - 💫 [How To Read A CSV File &amp; Write Data Into It Using PHP](https://octagon.hashnode.dev/how-to-read-a-csv-file-write-data-into-it-using-php)
- - 🚀 [How To Setup Automatic Redirects In Your React Application](https://octagon.hashnode.dev/how-to-setup-automatic-redirects-in-your-react-application)
- - 💫 [How To Upload And Zip Single Or Multiple Files in PHP](https://octagon.hashnode.dev/how-to-upload-and-zip-single-or-multiple-files-in-php)<!-- BLOGPOSTS:END -->
+ - 🚀 [How To Read A CSV File &amp; Write Data Into It Using PHP](https://octagon.hashnode.dev/how-to-read-a-csv-file-write-data-into-it-using-php)
+ - 💫 [How To Setup Automatic Redirects In Your React Application](https://octagon.hashnode.dev/how-to-setup-automatic-redirects-in-your-react-application)<!-- BLOGPOSTS:END -->
 
 ## ☎️ Contact Me
 
