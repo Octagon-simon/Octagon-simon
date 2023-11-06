@@ -29,5 +29,5 @@
 
 ## 💻 My Portfolio
 
-- 🌐 Visit my portfolio at [Octagon-simon](https://Octagon-simon.github.io)
+- 🌐 [Visit my portfolio](https://simon-ugorji.onrender.com)
 - 📰 Visit my handle on [LinkedIn](https://www.linkedin.com/in/simon-ugorji-57a6a41a3/)
