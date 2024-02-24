@@ -1,7 +1,9 @@
 
-<center>[![](https://visitcount.itsvg.in/api?id=octagon-simon&label=Secret%20Admirers&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)</center>
+<div align="center">
+ 
+[![](https://visitcount.itsvg.in/api?id=octagon-simon&label=Secret%20Admirers&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
----
+</div>
 
 ## 👋 Hi, I’m Simon Ugorji
 
@@ -10,12 +12,18 @@
 - 💞️ I’m looking to collaborate on technical writing and software development projects 
 
 ## ✨ Overview
+<div align="center">
+ 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=octagon-simon&theme=radical&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=octagon-simon&theme=radical&hide_border=false)
+</div>
 
 ## ❤️‍🔥 My Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=octagon-simon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=octagon-simon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ 
+</div>
 
 ## 💻 Tech Stack
 
@@ -23,12 +31,20 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=octagon-simon&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=octagon-simon&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=octagon-simon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
  
+ ![](https://github-profile-trophy.vercel.app/?username=octagon-simon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
 ## :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🚀 [4 Ways To Add CSS Styles To Your NextJS Project](https://octagon.hashnode.dev/4-ways-to-add-css-styles-to-your-nextjs-project)
