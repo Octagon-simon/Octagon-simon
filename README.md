@@ -1,5 +1,5 @@
 
-[![](https://visitcount.itsvg.in/api?id=octagon-simon&label=Secret%20Admirers&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
+<center>[![](https://visitcount.itsvg.in/api?id=octagon-simon&label=Secret%20Admirers&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)</center>
 
 ---
 
