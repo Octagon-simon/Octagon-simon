@@ -47,11 +47,11 @@
 
 ## :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [How To Use Redis As A Caching Server In Your Javascript Project - For Beginners](https://octagon.hashnode.dev/how-to-use-redis-as-a-caching-server-in-your-javascript-project-for-beginners)
+ - 🚀 [A Recent Backend Problem That I Had To Solve](https://octagon.hashnode.dev/a-recent-backend-problem-that-i-had-to-solve)
+ - 💫 [How To Use Redis As A Caching Server In Your Javascript Project - For Beginners](https://octagon.hashnode.dev/how-to-use-redis-as-a-caching-server-in-your-javascript-project-for-beginners)
  - 💫 [4 Ways To Add CSS Styles To Your NextJS Project](https://octagon.hashnode.dev/4-ways-to-add-css-styles-to-your-nextjs-project)
- - 💫 [How To Create An OTP Input Box In React JS/Next JS](https://octagon.hashnode.dev/how-to-create-an-otp-input-box-in-react-jsnext-js)
- - 🚀 [A Research On The 2 Popular AI Language Models](https://octagon.hashnode.dev/a-research-on-the-2-popular-ai-language-models)
- - 💫 [How To Read A CSV File &amp; Write Data Into It Using PHP](https://octagon.hashnode.dev/how-to-read-a-csv-file-write-data-into-it-using-php)<!-- BLOGPOSTS:END -->
+ - 🚀 [How To Create An OTP Input Box In React JS/Next JS](https://octagon.hashnode.dev/how-to-create-an-otp-input-box-in-react-jsnext-js)
+ - 💫 [A Research On The 2 Popular AI Language Models](https://octagon.hashnode.dev/a-research-on-the-2-popular-ai-language-models)<!-- BLOGPOSTS:END -->
 
 ## ☎️ Contact Me
 
