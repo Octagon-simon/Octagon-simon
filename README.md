@@ -5,7 +5,7 @@
 
 </div>
 
-## 👋 Hi, I’m Simon Ugorji
+## 👋 Hi, I’m Simon Ugorji, but you can call me: The Octagon ✨
 
 - 👀 I’m interested in Technical writing & Software Development. 
 - 🌱 I’m currently building marketable products using my skills, check out my latest invention [KaboCash](https://kabocash.com) ✨
