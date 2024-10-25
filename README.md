@@ -10,7 +10,7 @@
 ... but you can always call me: **The Octagon** ✨
 
 - 👀 I’m interested in Technical writing & Software Development. 
-- 🌱 I’m currently building marketable products using my skills, check out my latest invention [KaboCash](https://kabocash.com) ✨
+- 🌱 I’m currently building marketable products using my skills
 - 💞️ I’m looking to collaborate on technical writing and software development projects 
 
 ## ✨ Overview
