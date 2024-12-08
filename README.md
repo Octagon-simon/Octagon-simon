@@ -5,9 +5,7 @@
 
 </div>
 
-## 👋 Hi, I’m Simon Ugorji
-
-... but you can always call me: **The Octagon** ✨
+## 👋 Hi, I’m Simon Ugorji (Octagon)
 
 - 👀 I’m interested in Technical writing & Software Development. 
 - 🌱 I’m currently building marketable products using my skills
@@ -46,6 +44,10 @@
  ![](https://github-profile-trophy.vercel.app/?username=octagon-simon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+
+## 💲 Projects 
+
+- 🚀 [Furniro | A fully responsive E-commerce React Template](https://simonugorji.gumroad.com/l/furniro-ecommerce-react-template)
 
 ## :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
