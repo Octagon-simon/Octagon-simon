@@ -48,7 +48,7 @@
 ## 💲 Projects 
 
 - 🚀 [Furniro | A fully responsive E-commerce React Template](https://simonugorji.gumroad.com/l/furniro-ecommerce-react-template)
-- 🚀 [Octavalidate | A highly customizable and easy-to-use validation library](https://www.npmjs.com/package/octavalidate-nodejs)
+- 🚀 [Octavalidate | A highly customizable and easy-to-use validation library](https://www.npmjs.com/package/octavalidate)
 
 ## :books: My Recent Blog Posts
 <!-- BLOGPOSTS:START -->
